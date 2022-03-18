@@ -1,0 +1,1 @@
+- https://www.8thwall.com/8thwall/react-app/code/lib/aframe-components.tsx
